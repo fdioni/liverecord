@@ -7,8 +7,8 @@
   * niconico live broadcast, niconico community, niconico channel (support login niconico account for recording), 
   * mirrativ channel, 
   * reality channel, 
-  * 17live channel (18+), 
-  * chaturbate channel (18+), 
+  * 17live channel (18+ ( ͡° ͜ʖ ͡°)), 
+  * chaturbate channel (18+ ( ͡° ͜ʖ ͡°)),
   * bilibili channel, 
   * streamlink supported live URL, 
   * ffmpeg supported m3u8 address. 
